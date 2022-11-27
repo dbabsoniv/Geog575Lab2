@@ -1,0 +1,32 @@
+.map {
+	border: medium solid #999;
+    margin: 10px 0 0 20px;
+}
+
+.chart {
+    background-color: rgba(128,128,128,.2);
+    border: medium solid #999;
+    float: right;
+    margin: 10px 20px 0 0;
+}
+
+.numbers {
+    fill: white;
+    font-family: sans-serif;
+}
+
+.countries {
+	fill: #FFF;
+	stroke: #CCC;
+	stroke-width: 2px;
+}
+
+.gratBackground {
+	fill: #D5E3FF;
+}
+
+.gratLines {
+	fill: none;
+	stroke: #999;
+	stroke-width: 1px;
+}
